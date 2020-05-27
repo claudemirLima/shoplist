@@ -1,5 +1,8 @@
 package com.sholist.enuns;
-
+/*
+ * Enum
+ * 
+ */
 public enum EnumTypeColumn {
 	
 	TYPE_ITEM("type_item",1),
